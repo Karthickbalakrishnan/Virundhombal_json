@@ -1,0 +1,29 @@
+{
+  "culinary_heritage_and_hospitality": {
+    "title": "Culinary Heritage & Hospitality",
+    "pillars": [
+      {
+        "name": "Banquet Tradition",
+        "description": "Serving meals on fresh banana leaves during festivals and weddings reflects deep-rooted principles of sustainability and warm hospitality (Virundhombal).",
+        "scale_visual_prompt": {
+          "subject": "Traditional South Indian Virundhu (feast) served elaborate vegetarian dishes laid out systematically on a fresh, vibrant green banana leaf.",
+          "composition": "Top-down flat lay view, symmetrical framing capturing the banana leaf centered with organized portions of rice, sambhar, vathal kuzhambu, poriyal, kootu, payasam, appalam, and pickles.",
+          "action": "Warm steam gently rising off freshly served rice, with a traditional brass sombu pouring water into a tumbler nearby.",
+          "location": "A festive wedding hall (Kalyana Mandapam) setup in Tamil Nadu, with smooth polished teak tables and traditional brassware.",
+          "aesthetic": "Authentic, warm, and inviting ambiance with rich organic greens, deep metallic brass tones, and natural soft morning sunlight."
+        }
+      },
+      {
+        "name": "Flavors",
+        "description": "From authentic South Indian filter coffee served in a traditional dabara set to traditional vegetarian tiffins (Idli, Dosa, Sambhar, Pongal) and flavorful regional spices.",
+        "scale_visual_prompt": {
+          "subject": "Steaming hot South Indian filter coffee being poured into a polished brass dabara set, alongside a traditional tiffin platter of crispy ghee roast dosa, pillowy soft idlis, and roasted chana dal chutney.",
+          "composition": "Close-up macro shot with shallow depth of field, focusing sharply on the frothy coffee foam pouring mid-air from cup to dabara vessel.",
+          "action": "A skilled artisan high-pour creating a rich, thick froth layer in the coffee, capturing dynamic movement and steam bubbles.",
+          "location": "A classic traditional South Indian tiffin house with brass lamps and wooden elements.",
+          "aesthetic": "Rustic yet refined, dominated by warm golden hues, rich coffee brown tones, and comforting rustic textures."
+        }
+      }
+    ]
+  }
+}
