@@ -1,1 +1,2 @@
-# json_video
+#Virundhombal: The Soul of Tamil Culinary Heritage
+In Tamil culture, hospitality is known as Virundhombal—a sacred tradition where serving food is an expression of warmth, gratitude, and community. This visual highlights two of its strongest pillars: the traditional banquet (Virundhu) served systematically on a fresh green banana leaf, and the comforting ritual of authentic, frothy South Indian filter coffee. Together, they represent a timeless balance of rich flavors, eco-friendly living, and deep-rooted hospitality.
